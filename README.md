@@ -36,9 +36,10 @@
 
 | Skill | 外部依赖 | 版权归属 |
 |:---|:---|:---|
+| `emb_html_generation` | MkDocs Material 主题（`mkdocs-material`） | MIT License，[squidfunk](https://github.com/squidfunk) |
 | `embedded-dev` | Superpowers 系列 Skill（brainstorming、writing-plans、subagent-driven-development 等） | 原作者所有，需从市场自行安装 |
 
-本仓库不提供上述依赖的任何代码，仅描述如何调用它们。
+本仓库不提供上述依赖的任何代码或主题文件，仅描述如何调用它们。
 
 ## License
 

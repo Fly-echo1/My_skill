@@ -2,6 +2,13 @@
 
 > 自动扫描嵌入式项目源码，一键生成简洁有技术感的 HTML 文档站。
 
+## ⚠️ 版权声明
+
+本 Skill 的 `SKILL.md` 和 `README.md` 为原创作品。
+
+生成的 HTML 文档站使用 **MkDocs Material 主题**（[squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)），
+采用 MIT License，版权归原作者所有。本仓库不包含该主题的任何代码。
+
 ## 设计背景
 
 嵌入式项目通常缺乏良好的文档。手动写文档费时费力，且容易过时。
